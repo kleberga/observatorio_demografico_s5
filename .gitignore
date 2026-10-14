@@ -1,0 +1,10 @@
+# ignora a pasta de dados locais
+data/
+
+# ignora cache e arquivos temporarios do VS Code
+.vscode/
+*.log
+
+# ignora ambientes virtuais Python (não usados aqui, mas boa pratica)
+venv/
+__pycache__/
