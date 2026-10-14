@@ -2,7 +2,7 @@
 
 > Dashboard analítico que executa Python e Pandas **diretamente no navegador** via WebAssembly - sem backend, sem servidor, sem envio de dados.
 
-🔗 **[Acesse a aplicação em produção](https://claitonoliveira.github.io/observatorio_demografico_s6/)**
+🔗 **[Acesse a aplicação em produção](https://observatoriodemografico1.netlify.app/)**
 
 ![Preview do Observatório Demográfico](images/og-preview.png)
 
